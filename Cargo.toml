@@ -1,0 +1,14 @@
+[package]
+edition = "2021"
+name = "universal-args-parser"
+version = "0.0.1"
+authors = ["warlock <internalmike@gmail.com>"]
+description = "Simple lightweight command line args parser supporting both Unix (GNU) and DOS (Windows) idiomatic interface styles."
+readme = "README.md"
+documentation = "https://docs.rs/universal-args-parser/"
+keywords = ["argument", "cli", "arg", "parser", "no_std"]
+categories = ["command-line-interface", "no-std"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/A1-Triard/universal-args-parser"
+
+[dependencies]
